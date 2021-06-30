@@ -1,5 +1,5 @@
 {
-  "editor.tabSize": 2,
+  "editor.tabSize": 1,
   "prettier.semi": false,
   "prettier.singleQuote": true,
   "prettier.printWidth": 120
